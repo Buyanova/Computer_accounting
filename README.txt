@@ -1,1 +1,1 @@
-"The program is designed for tracking computer equipment" 
+The program is designed for tracking computer equipment
